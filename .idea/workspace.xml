@@ -25,11 +25,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.21907216">
-              <caret line="29" column="131" selection-start-line="29" selection-start-column="131" selection-end-line="29" selection-end-column="131" />
+            <state vertical-scroll-proportion="0.37628865">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
               <folding>
-                <marker date="1479182116973" expanded="true" signature="1145:1246" placeholder="SELECT UNIX_..solution..." />
-                <marker date="1479182116973" expanded="true" signature="1463:1578" placeholder="SELECT UNIX_..solution..." />
+                <marker date="1479184316074" expanded="true" signature="961:1062" placeholder="SELECT UNIX_..solution..." />
+                <marker date="1479184316074" expanded="true" signature="1279:1394" placeholder="SELECT UNIX_..solution..." />
               </folding>
             </state>
           </provider>
@@ -176,11 +176,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.21907216">
-          <caret line="29" column="131" selection-start-line="29" selection-start-column="131" selection-end-line="29" selection-end-column="131" />
+        <state vertical-scroll-proportion="0.37628865">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
           <folding>
-            <marker date="1479182116973" expanded="true" signature="1145:1246" placeholder="SELECT UNIX_..solution..." />
-            <marker date="1479182116973" expanded="true" signature="1463:1578" placeholder="SELECT UNIX_..solution..." />
+            <marker date="1479184316074" expanded="true" signature="961:1062" placeholder="SELECT UNIX_..solution..." />
+            <marker date="1479184316074" expanded="true" signature="1279:1394" placeholder="SELECT UNIX_..solution..." />
           </folding>
         </state>
       </provider>

@@ -5,7 +5,7 @@
 	require_once('./include/cache_start.php');
     require_once('./include/db_info.inc.php');
 	require_once('./include/setlang.php');
-	$view_title= "Welcome To Online Judge";
+	$view_title= "Bienvenidos al Juez Virtual de la EMI";
 	
 ///////////////////////////MAIN	
 	
@@ -17,7 +17,7 @@
 			."LIMIT 50";
 	$result=mysqli_query($mysqli,$sql);//mysql_escape_string($sql));
 	if (!$result){
-		$view_news= "<h3>No News Now!</h3>";
+		$view_news= "<h3>No Existen Noticias</h3>";
 		$view_news.= mysqli_error($mysqli);
 	}else{
 		$view_news.= "<table width=96%>";
@@ -27,7 +27,6 @@
 			$view_news.= "<tr><td><td>".$row->content."</tr>";
 		}
 		mysqli_free_result($result);
-		$view_news.= "<tr><td width=20%><td>This <a href=http://cm.baylor.edu/welcome.icpc>ACM/ICPC</a> OnlineJudge is a GPL product from <a href=https://github.com/zhblue/hustoj>hustoj</a></tr>";
 		$view_news.= "</table>";
 	}
 $view_apc_info="";
